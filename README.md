@@ -7,6 +7,7 @@
     - Linkedin: https://linkedin.com/in/benard-musyoka-bb15581bb
     - Twitter: https://twitter.com/benardmusyoka_
     - Medium: https://medium.com/@benadata
+    - Tableau: https://public.tableau.com/app/profile/benard.mwinzi
 
 <!---
 BenaData/BenaData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
