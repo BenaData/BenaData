@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on several data analysis proects to continue improving my skills.
 - 📫 How to reach me:
     - Linkedin: https://linkedin.com/in/benard-musyoka-bb15581bb
-    - Twitter: https://twitter.com/benardmusyoka_
+    - Twitter: https://twitter.com/benardmusyoka_/
     - Medium: https://medium.com/@benadata
     - Tableau: https://public.tableau.com/app/profile/benard.mwinzi
 
